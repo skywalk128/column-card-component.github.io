@@ -66,6 +66,13 @@ button {
   font-weight: bold;
 }
 
+button:hover {
+  border: 3px solid #fff;
+  background-color: inherit;
+  color: #fff;
+  cursor: pointer;
+}
+
 .btn-1 {
   color: hsl(31, 77%, 52%);
 }
